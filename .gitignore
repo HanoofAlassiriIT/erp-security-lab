@@ -11,3 +11,4 @@ odoo.conf
 *.sql
 *.log
 .DS_Store
+phase1/invoices_report.csv
