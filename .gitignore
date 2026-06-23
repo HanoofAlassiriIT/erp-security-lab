@@ -1,4 +1,13 @@
+pycache/
+*.pyc
+*.pyo
+*.bak
+*backup*
+*.pem
+*.key
+*.env
+odoo.conf
+*.dump
 *.sql
-*.csv
-.env
-__pycache__/
+*.log
+.DS_Store
